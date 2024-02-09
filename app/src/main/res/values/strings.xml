@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">notificationtest</string>
+    <string name="channel_name">Notification Channel</string>
+    <string name="channel_description">This is the notification channel for the app.</string>
+    <string name="notification_title">Test Notification</string>
+    <string name="notification_message">This is a test notification.</string>
+</resources>
